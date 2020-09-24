@@ -1,0 +1,15 @@
+{
+  "name": "medchain",
+  "version": "1.0.0",
+  "description": "a simulation of blockchain to hold medical records.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antony Prince J",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "sha256": "^0.2.0"
+  }
+}
